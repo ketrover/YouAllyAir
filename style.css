@@ -87,9 +87,9 @@ footer {
   display: fixed;
   position: relative;
   float: center;
-  margin-left: 498px;
-  top: -35px;
-  height: 300px;
+  margin-left: 20px;
+  top: -25px;
+  height: 250px;
 }
 
 .Caracteristicas{
@@ -236,4 +236,9 @@ h2 {
   position: relative;
   color: blue;
   top: -510px;
+}
+
+.logo2{
+  position: relative;
+  margin-left: -20px;
 }
