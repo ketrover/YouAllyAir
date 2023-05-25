@@ -220,14 +220,14 @@ h2 {
 
 .celuco{
   position: relative;
-  top: -180px;
-  height: 500px;
-  margin-left: 800px;
+  top: 100px;
+  height: 400px;
+  margin-left: 100px;
 }
 
 .ee{
   position: relative;
-  top: -500px;
+  top: -410px;
   padding: 10px;
   margin: 10px;
 }
